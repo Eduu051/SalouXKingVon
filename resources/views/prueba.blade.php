@@ -5,6 +5,6 @@
 @endsection
 
 @section('content')
-    <h1>Hola, esta es una vista de prueba</h1>
-    <p>Este es un ejemplo de contenido en la vista de prueba.</p>
+    <h1>UD Salou</h1>
+    <p>Armed and dangerous.</p>
 @endsection
