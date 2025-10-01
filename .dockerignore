@@ -1,0 +1,16 @@
+node_modules
+vendor
+storage/*.key
+storage/logs
+storage/framework
+.env
+.git
+.gitignore
+composer.lock
+npm-debug.log
+debug.log
+.idea
+.vscode
+*.md
+public/build
+public/storage
